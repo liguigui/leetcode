@@ -1,0 +1,25 @@
+[北京][百度] [网页搜索基础架构团队] 招聘大规模分布式系统 架构师/工程师/实习生
+2016-09-25
+
+工作亮点: 
+1. 支撑百度搜索引擎的核心分布式基础架构（网络、存储、计算、集群管理） 
+2. 开源、开放，团队大部分项目都是开源的 
+百度文件系统 BFS ( https://github.com/baidu/bfs) 
+分布式数据库 Tera ( https://github.com/baidu/tera) 
+集群管理系统 Galaxy ( https://github.com/baidu/galaxy) 
+网络通讯框架 Sofa-pbrpc ( https://github.com/baidu/sofa-pbrpc) 
+分布式锁服务 Nexus ( https://github.com/baidu/ins) 
+分布式计算框架 Shuttle ( https://github.com/baidu/shuttle) 
+
+要求: 
+- 3 年以上 Unix 平台下系统开发经验，熟悉网络、多线程开发。 
+- 精通 C 、 C++、 GO 、 Php 、 Java 、JavaScript和 Python 中至少一门编程语言 
+- 对数据结构和算法设计有较为深刻的理解 
+- 热爱分布式系统与开源 
+优先： 
+- 有大型分布式系统设计开发经验者优先 
+- 有开源项目参与经历者优先 
+- 熟悉以下系统者优先： Linux 内核、 Hadoop 相关（ HDFS, Yarn, Hive 等）、 Apache Mesos 、 Docker 
+
+我们团队致力于新一代搜索基础架构的研发，校召、社招、实习皆可。 
+有意向的同学请将联系方式和简历发至： yanshiguang02@baidu.com
