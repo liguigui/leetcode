@@ -41,11 +41,11 @@ sqoop import
 --table tablename 
 --hive-import 
 --hive-table tablename -m 1
---------------------- 
+---------hadoop  chmod------------
  $ $HADOOP_HOME/bin/hadoop fs -mkdir       /tmp
-  $ $HADOOP_HOME/bin/hadoop fs -mkdir       /user/hive/warehouse
-  $ $HADOOP_HOME/bin/hadoop fs -chmod g+w   /tmp
-  $ $HADOOP_HOME/bin/hadoop fs -chmod g+w   /user/hive/warehouse
+ $ $HADOOP_HOME/bin/hadoop fs -mkdir       /user/hive/warehouse
+ $ $HADOOP_HOME/bin/hadoop fs -chmod g+w   /tmp
+ $ $HADOOP_HOME/bin/hadoop fs -chmod g+w   /user/hive/warehouse
 -----------hawq-------------------
 HAWQ数据导入导出
 #导入
